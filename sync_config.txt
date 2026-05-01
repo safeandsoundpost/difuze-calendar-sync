@@ -1,0 +1,2 @@
+pdf_folder=/Users/thom/Downloads/DIFUZE STUDIO BOOKING CALENDAR
+calendar_name=DIFUZE - STUDIO CALENDAR
