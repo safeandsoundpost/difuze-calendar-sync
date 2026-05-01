@@ -1,0 +1,13 @@
+name = "difuze-calendar-sync"
+main = "index.js"
+compatibility_date = "2026-01-01"
+
+[[kv_namespaces]]
+binding = "EVENTS_KV"
+id = "0a232bde77c54289bdfda64c36e892b2"
+
+[vars]
+TIMEZONE = "America/Toronto"
+
+[triggers]
+crons = ["7 * * * *"]
